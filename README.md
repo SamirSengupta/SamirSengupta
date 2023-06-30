@@ -1,27 +1,50 @@
-# Samir Sengupta
+# <div align="center">Samir Sengupta</div>
 
-## Introduction
+<div align="center">
+  
+  ## Introduction
 
-Welcome to my GitHub profile! I am a passionate data scientist with a strong background in machine learning and data analysis. I specialize in deriving insights from complex datasets and developing predictive models. My GitHub repositories showcase my projects, contributions, and interests in the field. Feel free to explore and get in touch!
-
+  Welcome to my GitHub profile! I am a passionate data scientist with a strong background in machine learning and data analysis. I specialize in deriving insights from complex datasets and developing predictive models. My GitHub repositories showcase my projects, contributions, and interests in the field. Feel free to explore and get in touch!
+  
+</div>
 
 ## Skills
 
-- **Programming Languages**: Python, R, SQL
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras, XGBoost
-- **Deep Learning**: PyTorch, TensorFlow
-- **Natural Language Processing**: NLTK, SpaCy
-- **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau
-- **Statistical Analysis**: NumPy, Pandas, SciPy
-- **Data Mining**: Feature Engineering, Dimensionality Reduction, Clustering
-- **Time Series Analysis**: ARIMA, LSTM, Prophet
-- **Web Scraping**: BeautifulSoup, Selenium
-- **Cloud Platforms**: AWS, GCP, Azure
-- **Version Control**: Git, GitHub
-- **Data Cleaning and Preprocessing**
-- **Model Evaluation and Validation**
-- **Model Deployment and Productionization**
+<div align="center">
 
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![R](https://img.shields.io/badge/R-Intermediate-green)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-orange)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Advanced-blueviolet)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-red)
+![Keras](https://img.shields.io/badge/Keras-Advanced-red)
+![NLTK](https://img.shields.io/badge/NLTK-Intermediate-green)
+![SpaCy](https://img.shields.io/badge/SpaCy-Intermediate-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Intermediate-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-Intermediate-blue)
+![Plotly](https://img.shields.io/badge/Plotly-Intermediate-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Intermediate-yellow)
+![NumPy](https://img.shields.io/badge/NumPy-Advanced-yellowgreen)
+![Pandas](https://img.shields.io/badge/Pandas-Advanced-yellowgreen)
+![SciPy](https://img.shields.io/badge/SciPy-Intermediate-green)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-Advanced-blueviolet)
+![Dimensionality Reduction](https://img.shields.io/badge/Dimensionality%20Reduction-Advanced-blueviolet)
+![Clustering](https://img.shields.io/badge/Clustering-Intermediate-green)
+![ARIMA](https://img.shields.io/badge/ARIMA-Intermediate-green)
+![LSTM](https://img.shields.io/badge/LSTM-Intermediate-green)
+![Prophet](https://img.shields.io/badge/Prophet-Intermediate-green)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Intermediate-yellow)
+![Selenium](https://img.shields.io/badge/Selenium-Intermediate-yellow)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-blue)
+![GCP](https://img.shields.io/badge/GCP-Intermediate-blue)
+![Azure](https://img.shields.io/badge/Azure-Intermediate-blue)
+![Git](https://img.shields.io/badge/Git-Intermediate-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Intermediate-blue)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Advanced-yellowgreen)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-Advanced-yellowgreen)
+![Model Deployment](https://img.shields.io/badge/Model%20Deployment-Advanced-yellowgreen)
+
+</div>
 
 ## Projects
 
