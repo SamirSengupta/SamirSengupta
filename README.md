@@ -31,17 +31,29 @@ Welcome to my GitHub profile! I am a passionate data scientist with a strong bac
 - **Tech Stack**: Python, Scikit-learn, TMDb API, Streamlit
 - **Link**: [Movie Recommender System](https://samirsengupta-crypt-crypt-offnit.streamlit.app/)
 
+### Music Mate
+
+- **Description**: Music Mate is a web application that allows users to download songs from Spotify or YouTube using the URL of the song or playlist.
+- **Tech Stack**: Spotify API, Flask, Python, HTML/CSS/JS, PyTube, youtubeSearchPython
+- **Link**: [Music Mate](https://github.com/SamirSengupta/Music-Mate)
+
+### Portfolio
+
+- **Description**: My professional portfolio website showcasing my education, certifications, job experience, and projects.
+- **Tech Stack**: HTML, CSS, JavaScript, GitHub
+- **Link**: [Portfolio](https://samirsengupta.github.io/SamirSengupta/)
+
 ### Customer Churn Prediction
 
 - **Description**: Predictive modeling project that aims to identify potential customer churn in a telecommunications company using machine learning algorithms.
 - **Tech Stack**: Python, Scikit-learn, Pandas, NumPy
-- **Link**: [Customer Churn Prediction](https://github.com/SamirSengupta/Customer-Churn-Prediction)
+
 
 ### Sentiment Analysis of Twitter Data
 
 - **Description**: NLP project that involves analyzing sentiment trends on Twitter data to gain insights into public opinions on various topics.
 - **Tech Stack**: Python, NLTK, TextBlob, Pandas, Matplotlib
-- **Link**: [Sentiment Analysis of Twitter Data](https://github.com/SamirSengupta/Sentiment-Analysis-Twitter-Data)
+
 
 ## Contact
 
