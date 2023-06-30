@@ -1,53 +1,50 @@
-# <Your Name>
+# Samir Sengupta
 
 ## Introduction
 
-Welcome to my GitHub profile! I am a passionate <your profession> with a strong background in <your field>. I love solving complex problems and building innovative solutions. My GitHub repositories showcase my projects, contributions, and interests. Feel free to explore and get in touch!
+Welcome to my GitHub profile! I am a passionate data scientist with a strong background in machine learning and data analysis. I specialize in deriving insights from complex datasets and developing predictive models. My GitHub repositories showcase my projects, contributions, and interests in the field. Feel free to explore and get in touch!
+
 
 ## Skills
 
-- <Skill 1>: Description of skill 1.
-- <Skill 2>: Description of skill 2.
-- <Skill 3>: Description of skill 3.
-- ...
+- **Programming Languages**: Python, R, SQL
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras, XGBoost
+- **Deep Learning**: PyTorch, TensorFlow
+- **Natural Language Processing**: NLTK, SpaCy
+- **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau
+- **Statistical Analysis**: NumPy, Pandas, SciPy
+- **Data Mining**: Feature Engineering, Dimensionality Reduction, Clustering
+- **Time Series Analysis**: ARIMA, LSTM, Prophet
+- **Web Scraping**: BeautifulSoup, Selenium
+- **Cloud Platforms**: AWS, GCP, Azure
+- **Version Control**: Git, GitHub
+- **Data Cleaning and Preprocessing**
+- **Model Evaluation and Validation**
+- **Model Deployment and Productionization**
+
 
 ## Projects
 
-### Project 1
+### Movie Recommendation System
 
-- Description: Brief description of the project.
-- Tech Stack: List of technologies used.
-- Link: [Project 1](link/to/project1)
+- **Description**: A comprehensive movie recommendation system that utilizes collaborative filtering techniques to suggest personalized movie recommendations based on user preferences and movie ratings.
+- **Tech Stack**: Python, Scikit-learn, TMDb API, Streamlit
+- **Link**: [Movie Recommender System](https://samirsengupta-crypt-crypt-offnit.streamlit.app/)
 
-### Project 2
+### Customer Churn Prediction
 
-- Description: Brief description of the project.
-- Tech Stack: List of technologies used.
-- Link: [Project 2](link/to/project2)
+- **Description**: Predictive modeling project that aims to identify potential customer churn in a telecommunications company using machine learning algorithms.
+- **Tech Stack**: Python, Scikit-learn, Pandas, NumPy
+- **Link**: [Customer Churn Prediction](https://github.com/SamirSengupta/Customer-Churn-Prediction)
 
-### Project 3
+### Sentiment Analysis of Twitter Data
 
-- Description: Brief description of the project.
-- Tech Stack: List of technologies used.
-- Link: [Project 3](link/to/project3)
+- **Description**: NLP project that involves analyzing sentiment trends on Twitter data to gain insights into public opinions on various topics.
+- **Tech Stack**: Python, NLTK, TextBlob, Pandas, Matplotlib
+- **Link**: [Sentiment Analysis of Twitter Data](https://github.com/SamirSengupta/Sentiment-Analysis-Twitter-Data)
 
-## Contributions
+## Contact
 
-- <Contribution 1>: Description of your contribution and its impact.
-- <Contribution 2>: Description of your contribution and its impact.
-- <Contribution 3>: Description of your contribution and its impact.
-- ...
-
-## Blog Articles
-
-- <Article 1>: Description and link to your blog article.
-- <Article 2>: Description and link to your blog article.
-- <Article 3>: Description and link to your blog article.
-- ...
-
-## Contact Me
-
-You can reach out to me via email at [your@email.com] or connect with me on [LinkedIn](link/to/linkedin). I am open to interesting collaborations and new opportunities.
+You can reach out to me via email at [samir843301003@gmail.com](mailto:samir843301003@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/samirsengupta/). I am open to interesting collaborations and new opportunities in the field of data science.
 
 Looking forward to connecting with you!
-
