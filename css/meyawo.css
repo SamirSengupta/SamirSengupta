@@ -12044,6 +12044,7 @@ pre .code {
     margin-top: 15px;
   }
 }
+
 .header {
   position: relative;
   height: 100vh;
@@ -12054,21 +12055,17 @@ pre .code {
   display: flex;
   -webkit-box-align: center;
   -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   background-image: url(../imgs/header.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-
-  /* Prevent dark mode from changing the background color */
-  background-color: white;
 }
-
 
 .header .overlay {
   position: absolute;
