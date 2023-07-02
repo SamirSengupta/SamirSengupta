@@ -80,7 +80,7 @@
 
 ### Image Classification On White Blood Cells
 
-- **DescriptionNLP project that involves analyzing sentiment trends on Twitter data to gain insights into public opinions on various topics.
+- **Description**: Image segregation based on patterns is a task that involves categorizing images into distinct groups based on the visual patterns they exhibit. 
 - **Tech Stack**: Deep Learning, Image Classificaion, Convolutional Neural Network, Gradio, Machine Learning
 
 ## Contact
