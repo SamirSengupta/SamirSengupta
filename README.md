@@ -78,6 +78,11 @@
 - **Tech Stack**: Python, NLTK, TextBlob, Pandas, Matplotlib
 
 
+### Image Classification On White Blood Cells
+
+- **DescriptionNLP project that involves analyzing sentiment trends on Twitter data to gain insights into public opinions on various topics.
+- **Tech Stack**: Deep Learning, Image Classificaion, Convolutional Neural Network, Gradio, Machine Learning
+
 ## Contact
 
 You can reach out to me via email at [samir843301003@gmail.com](mailto:samir843301003@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/samirsengupta/). I am open to interesting collaborations and new opportunities in the field of data science.
