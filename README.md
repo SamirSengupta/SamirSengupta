@@ -15,6 +15,10 @@
 - **Duration**: August 2023 - Present
 - **Description**: As an Associate Software Developer at SynRadar, I specialize in building secure software solutions. My role involves collaborative development, rigorous testing, troubleshooting, and implementing AI/ML techniques for data protection. I prioritize continuous learning and clear documentation to ensure the highest quality of software development.
 
+### CEO at Code Academy
+- **Duration**: March 2023 - Present 
+- **Description**: At Code Academy, we are passionate about shaping the future of education and empowering aspiring individuals to thrive in the ever-evolving world of technology. Our mission is to bridge the gap between classroom learning and real-world industry demands, specifically focusing on the burgeoning fields of Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP).
+
 ### Data Analyst at Profit Maxima
 - **Duration**: August 2022 - July 2023
 - **Description**: At Profit Maxima, I worked as a Data Analyst, utilizing data to analyze stocks and accurately predict prices for strategic investments. I provided investors with insightful consultations, guiding diversified portfolios for optimal profits. My data-driven insights contributed to financial success within the organization.
