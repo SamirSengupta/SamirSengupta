@@ -80,7 +80,7 @@
 
 - **Description**: My professional portfolio website showcasing my education, certifications, job experience, and projects.
 - **Tech Stack**: HTML, CSS, JavaScript, GitHub
-- **Link**: [Portfolio](https://samirsengupta.github.io/SamirSengupta/)
+- **Link**: [Portfolio](https://neuralthread.cloud/samir)
 
 ### Customer Churn Prediction
 
