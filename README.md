@@ -74,7 +74,7 @@
 
 - **Description**: Music Mate is a web application that allows users to download songs from Spotify or YouTube using the URL of the song or playlist.
 - **Tech Stack**: Spotify API, Flask, Python, HTML/CSS/JS, PyTube, youtubeSearchPython
-- **Link**: [Music Mate](https://github.com/SamirSengupta/Music-Mate)
+- **Link**: [Music Mate](https://music-mate-by-samir-sengupta.streamlit.app/)
 
 ### Portfolio
 
