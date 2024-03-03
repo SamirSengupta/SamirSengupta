@@ -1,11 +1,6 @@
 # <div align="center">Samir Sengupta</div>
 
 <div align="center">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamirSengupta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamirSengupta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
   
   ## Introduction
 
@@ -104,11 +99,18 @@
 - **Description**: Image segregation based on patterns is a task that involves categorizing images into distinct groups based on the visual patterns they exhibit. 
 - **Tech Stack**: Deep Learning, Image Classification, Convolutional Neural Network, Gradio, Machine Learning
 
+## Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SamirSengupta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamirSengupta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+
 ## Contact
 
 You can reach out to me via email at [samir843301003@gmail.com](mailto:samir843301003@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/samirsengupta/). I am open to interesting collaborations and new opportunities in the field of data science.
 
 Looking forward to connecting with you!
-
 
 
