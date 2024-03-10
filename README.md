@@ -15,17 +15,13 @@
 - **Duration**: August 2023 - Present
 - **Description**: As an Associate Software Developer at SynRadar, I specialize in building secure software solutions. My role involves collaborative development, rigorous testing, troubleshooting, and implementing AI/ML techniques for data protection. I prioritize continuous learning and clear documentation to ensure the highest quality of software development.
 
-### AI Developer at Neural Thread
-- **Duration**: August 2021 - August 2022
-- **Description**: As an AI Developer at Neural Thread, I focused on AI models, deep learning, and stable diffusion for neural networks and AI. My responsibilities included working on various projects related to analyzing and implementing cutting-edge techniques in artificial intelligence.
-
-### CEO at Code Academy
-- **Duration**: March 2023 - Present 
-- **Description**: At Code Academy, we are passionate about shaping the future of education and empowering aspiring individuals to thrive in the ever-evolving world of technology. Our mission is to bridge the gap between classroom learning and real-world industry demands, specifically focusing on the burgeoning fields of Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP).
-
 ### Data Analyst at Profit Maxima
 - **Duration**: August 2022 - July 2023
 - **Description**: At Profit Maxima, I worked as a Data Analyst, utilizing data to analyze stocks and accurately predict prices for strategic investments. I provided investors with insightful consultations, guiding diversified portfolios for optimal profits. My data-driven insights contributed to financial success within the organization.
+
+### AI Developer at Neural Thread
+- **Duration**: August 2021 - August 2022
+- **Description**: As an AI Developer at Neural Thread, I focused on AI models, deep learning, and stable diffusion for neural networks and AI. My responsibilities included working on various projects related to analyzing and implementing cutting-edge techniques in artificial intelligence.
 
 
 ## Skills
@@ -98,13 +94,6 @@
 
 - **Description**: Image segregation based on patterns is a task that involves categorizing images into distinct groups based on the visual patterns they exhibit. 
 - **Tech Stack**: Deep Learning, Image Classification, Convolutional Neural Network, Gradio, Machine Learning
-
-## Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SamirSengupta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamirSengupta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 
 ## Contact
