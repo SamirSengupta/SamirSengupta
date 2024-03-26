@@ -11,15 +11,15 @@
 
 ## Experience
 
-### Associate Software Developer at SynRadar
+### Associate Software Developer at SynRadar (Full Time)
 - **Duration**: August 2023 - Present
 - **Description**: As an Associate Software Developer at SynRadar, I specialize in building secure software solutions. My role involves collaborative development, rigorous testing, troubleshooting, and implementing AI/ML techniques for data protection. I prioritize continuous learning and clear documentation to ensure the highest quality of software development.
 
-### Data Analyst at Profit Maxima
+### Data Analyst at Profit Maxima (Full Time)
 - **Duration**: August 2022 - July 2023
 - **Description**: At Profit Maxima, I worked as a Data Analyst, utilizing data to analyze stocks and accurately predict prices for strategic investments. I provided investors with insightful consultations, guiding diversified portfolios for optimal profits. My data-driven insights contributed to financial success within the organization.
 
-### AI Developer at Neural Thread
+### AI Developer at Neural Thread (Internship)
 - **Duration**: August 2021 - August 2022
 - **Description**: As an AI Developer at Neural Thread, I focused on AI models, deep learning, and stable diffusion for neural networks and AI. My responsibilities included working on various projects related to analyzing and implementing cutting-edge techniques in artificial intelligence.
 
