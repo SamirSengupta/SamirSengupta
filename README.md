@@ -55,6 +55,15 @@
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Advanced-yellowgreen)
 ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-Advanced-yellowgreen)
 ![Model Deployment](https://img.shields.io/badge/Model%20Deployment-Advanced-yellowgreen)
+![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-Advanced-brightgreen)
+![LangChain](https://img.shields.io/badge/LangChain-Advanced-brightgreen)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-Advanced-brightgreen)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Advanced-brightgreen)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-Advanced-brightgreen)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advanced-brightgreen)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Advanced-brightgreen)
+![Excel](https://img.shields.io/badge/Excel-Intermediate-yellow)
+![PowerBI](https://img.shields.io/badge/PowerBI-Intermediate-yellow)
 
 </div>
 
