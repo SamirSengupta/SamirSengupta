@@ -1,4 +1,4 @@
-# <div align="center">Samir Sengupta</div>
+# <div align="center">[Samir Sengupta](https://neuralthread.cloud/samir)</div> 
 
 <div align="center">
   
@@ -111,5 +111,5 @@ You can reach out to me via email at [samir843301003@gmail.com](mailto:samir8433
 
 Looking forward to connecting with you!
 
-[Samir Sengupta](https://neuralthread.cloud/samir)
+
 
