@@ -19,9 +19,10 @@
 - **Duration**: August 2022 - July 2023
 - **Description**: At Profit Maxima, I worked as a Data Analyst, utilizing data to analyze stocks and accurately predict prices for strategic investments. I provided investors with insightful consultations, guiding diversified portfolios for optimal profits. My data-driven insights contributed to financial success within the organization.
 
-### AI Developer at Neural Thread (Freelancer)
-- **Duration**: August 2021 - August 2022
-- **Description**: As an AI Developer at Neural Thread, I focused on AI models, deep learning, and stable diffusion for neural networks and AI. My responsibilities included working on various projects related to analyzing and implementing cutting-edge techniques in artificial intelligence.
+## AI Developer at Neural Thread (Freelance)
+- **Duration**: January 2021 - July 2022
+- **Description**: As an AI Developer, my role at Neural Thread involved leveraging Recurrent Neural Networks (RNN), Long Short-Term Memory networks (LSTM), Natural Language Processing (NLP), and advanced techniques in data visualization and neural networks. I focused on developing generation models, exploring innovative approaches to AI, and implementing cutting-edge methodologies in artificial intelligence.
+
 
 
 ## Skills
