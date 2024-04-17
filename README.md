@@ -104,17 +104,26 @@
 - **Description**: Predictive modeling project that aims to identify potential customer churn in a telecommunications company using machine learning algorithms.
 - **Tech Stack**: Python, Scikit-learn, Pandas, NumPy
 
+### Customer Segmentation
 
-### Sentiment Analysis of Twitter Data
+- **Description**: Utilized K-means clustering to categorize customers based on Annual Income and Spending Score, revealing insights into consumer behavior.
+- **Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib
 
-- **Description**: NLP project that involves analyzing sentiment trends on Twitter data to gain insights into public opinions on various topics.
-- **Tech Stack**: Python, NLTK, TextBlob, Pandas, Matplotlib
+### Power BI Sales Forecasting Dashboard
 
+- **Description**: Created an interactive Power BI dashboard for sales forecasting, using advanced data analysis and visualization techniques to provide useful insights.
+- **Tech Stack**: Power BI, Data Analysis, Data Visualization
 
-### Image Classification On White Blood Cells
+### Gemini Pro
 
-- **Description**: Image segregation based on patterns is a task that involves categorizing images into distinct groups based on the visual patterns they exhibit. 
-- **Tech Stack**: Deep Learning, Image Classification, Convolutional Neural Network, Gradio, Machine Learning
+- **Description**: Developed a Flask application utilizing Google's Gemini Large Language Model (LLM) to effectively summarize documents like CVs and job descriptions.
+- **Tech Stack**: Flask, Google Gemini LLM, Python
+
+### Gemini Vision Pro
+
+- **Description**: Developed an image recognition app using Google's Gemini Pro Vision model to analyze user-uploaded images.
+- **Tech Stack**: Flask, Google Gemini Vision, Python
+
 
 
 ## Contact
