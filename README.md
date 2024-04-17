@@ -11,17 +11,28 @@
 
 ## Experience
 
-### Associate Software Developer at SynRadar (Full Time)
-- **Duration**: August 2023 - Present
-- **Description**: As an Associate Software Developer at SynRadar, I specialize in building secure software solutions. My role involves collaborative development, rigorous testing, troubleshooting, and implementing AI/ML techniques for data protection. I prioritize continuous learning and clear documentation to ensure the highest quality of software development.
+## Associate Software Developer Python and Machine Learning, Synradar. 
+- **Duration**: Aug 2023 – Present
+- **Description**:
+- Led the transition from PHP to Python, harnessing advanced AI, NLP, and local large language models, resulting in a remarkable 160% increase in code base speed.
+- Developed a robust Flask application fortified with AI algorithms and NLP to bolster security measures.
+- Utilized Power BI to track KPIs, complemented by AI analytics.
 
-### Data Analyst at Profit Maxima (Full Time)
-- **Duration**: August 2022 - July 2023
-- **Description**: At Profit Maxima, I worked as a Data Analyst, utilizing data to analyze stocks and accurately predict prices for strategic investments. I provided investors with insightful consultations, guiding diversified portfolios for optimal profits. My data-driven insights contributed to financial success within the organization.
 
-## AI Developer at Neural Thread (Freelance)
+## Data Analyst, Profit Maxima. 
+- **Duration**: Aug 2022 – July 2023
+- **Description**:
+- Employed Python and SQL for thorough stock market data analysis, resulting in a significant 25% increase in client satisfaction with investment recommendations.
+- Created interactive data visualizations with Power BI, improving client understanding of investment options and reducing response time by 20% for client queries.
+- Optimized backend infrastructure using MySQL, leading to a notable 40% decrease in data retrieval time and enhancing operational efficiency.
+
+
+### Data Scientist, Neural Thread (Freelance)
 - **Duration**: January 2021 - July 2022
-- **Description**: As an AI Developer, my role at Neural Thread involved leveraging Recurrent Neural Networks (RNN), Long Short-Term Memory networks (LSTM), Natural Language Processing (NLP), and advanced techniques in data visualization and neural networks. I focused on developing generation models, exploring innovative approaches to AI, and implementing cutting-edge methodologies in artificial intelligence.
+- **Description**:
+  - Developed machine learning models to accurately predict customer churn, resulting in a notable increase in retention rates from 71% to 93%.
+  - Improved Predictive Analytics Solutions through the application of advanced deep learning algorithms, achieving a remarkable 42% enhancement in prediction accuracy.
+  - Led K-means clustering initiatives to dynamically segment customers, effectively optimizing targeted marketing strategies.
 
 
 
