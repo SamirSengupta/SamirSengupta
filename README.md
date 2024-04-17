@@ -11,7 +11,7 @@
 
 ## Experience
 
-## Associate Software Developer Python and Machine Learning, Synradar. 
+### Associate Software Developer Python and Machine Learning, Synradar. 
 - **Duration**: Aug 2023 – Present
 - **Description**:
 - Led the transition from PHP to Python, harnessing advanced AI, NLP, and local large language models, resulting in a remarkable 160% increase in code base speed.
@@ -19,7 +19,7 @@
 - Utilized Power BI to track KPIs, complemented by AI analytics.
 
 
-## Data Analyst, Profit Maxima. 
+### Data Analyst, Profit Maxima. 
 - **Duration**: Aug 2022 – July 2023
 - **Description**:
 - Employed Python and SQL for thorough stock market data analysis, resulting in a significant 25% increase in client satisfaction with investment recommendations.
