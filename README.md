@@ -81,17 +81,30 @@
 
 ## Projects
 
-### Movie Recommendation System
+### Gemini Vision Pro
 
-- **Description**: A comprehensive movie recommendation system that utilizes collaborative filtering techniques to suggest personalized movie recommendations based on user preferences and movie ratings.
-- **Tech Stack**: Python, Scikit-learn, TMDb API, Streamlit
-- **Link**: [Movie Recommender System](https://samirsengupta-crypt-crypt-offnit.streamlit.app/)
+- **Description**: Developed an image recognition app using Google's Gemini Pro Vision model to analyze user-uploaded images.
+- **Tech Stack**: Flask, Google Gemini Vision, Python
 
-### Music Mate
+### Gemini Pro
 
-- **Description**: Music Mate is a web application that allows users to download songs from Spotify or YouTube using the URL of the song or playlist.
-- **Tech Stack**: Spotify API, Flask, Python, HTML/CSS/JS, PyTube, youtubeSearchPython
-- **Link**: [Music Mate](https://music-mate-by-samir-sengupta.streamlit.app/)
+- **Description**: Developed a Flask application utilizing Google's Gemini Large Language Model (LLM) to effectively summarize documents like CVs and job descriptions.
+- **Tech Stack**: Flask, Google Gemini LLM, Python
+
+### Power BI Sales Forecasting Dashboard
+
+- **Description**: Created an interactive Power BI dashboard for sales forecasting, using advanced data analysis and visualization techniques to provide useful insights.
+- **Tech Stack**: Power BI, Data Analysis, Data Visualization
+
+### Customer Segmentation
+
+- **Description**: Utilized K-means clustering to categorize customers based on Annual Income and Spending Score, revealing insights into consumer behavior.
+- **Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib
+
+### Customer Churn Prediction
+
+- **Description**: Predictive modeling project that aims to identify potential customer churn in a telecommunications company using machine learning algorithms.
+- **Tech Stack**: Python, Scikit-learn, Pandas, NumPy
 
 ### Portfolio
 
@@ -99,30 +112,18 @@
 - **Tech Stack**: HTML, CSS, JavaScript, GitHub
 - **Link**: [Portfolio](https://neuralthread.cloud/samir)
 
-### Customer Churn Prediction
+### Music Mate
 
-- **Description**: Predictive modeling project that aims to identify potential customer churn in a telecommunications company using machine learning algorithms.
-- **Tech Stack**: Python, Scikit-learn, Pandas, NumPy
+- **Description**: Music Mate is a web application that allows users to download songs from Spotify or YouTube using the URL of the song or playlist.
+- **Tech Stack**: Spotify API, Flask, Python, HTML/CSS/JS, PyTube, youtubeSearchPython
+- **Link**: [Music Mate](https://music-mate-by-samir-sengupta.streamlit.app/)
 
-### Customer Segmentation
+### Movie Recommendation System
 
-- **Description**: Utilized K-means clustering to categorize customers based on Annual Income and Spending Score, revealing insights into consumer behavior.
-- **Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib
+- **Description**: A comprehensive movie recommendation system that utilizes collaborative filtering techniques to suggest personalized movie recommendations based on user preferences and movie ratings.
+- **Tech Stack**: Python, Scikit-learn, TMDb API, Streamlit
+- **Link**: [Movie Recommender System](https://samirsengupta-crypt-crypt-offnit.streamlit.app/)
 
-### Power BI Sales Forecasting Dashboard
-
-- **Description**: Created an interactive Power BI dashboard for sales forecasting, using advanced data analysis and visualization techniques to provide useful insights.
-- **Tech Stack**: Power BI, Data Analysis, Data Visualization
-
-### Gemini Pro
-
-- **Description**: Developed a Flask application utilizing Google's Gemini Large Language Model (LLM) to effectively summarize documents like CVs and job descriptions.
-- **Tech Stack**: Flask, Google Gemini LLM, Python
-
-### Gemini Vision Pro
-
-- **Description**: Developed an image recognition app using Google's Gemini Pro Vision model to analyze user-uploaded images.
-- **Tech Stack**: Flask, Google Gemini Vision, Python
 
 
 
