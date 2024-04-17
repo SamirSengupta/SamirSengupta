@@ -28,7 +28,7 @@
 
 
 ### Data Scientist, Neural Thread (Freelance)
-- **Duration**: January 2021 - July 2022
+- **Duration**: January 2021 - January 2022
 - **Description**:
   - Developed machine learning models to accurately predict customer churn, resulting in a notable increase in retention rates from 71% to 93%.
   - Improved Predictive Analytics Solutions through the application of advanced deep learning algorithms, achieving a remarkable 42% enhancement in prediction accuracy.
