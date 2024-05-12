@@ -11,7 +11,7 @@
 
 ## Experience
 
-### Associate Software Developer Python and Machine Learning, Synradar (Full Time)
+### Software Developer Python and Machine Learning, Synradar (Full Time)
 - **Duration**: Aug 2023 – Present
 - **Description**:
 - Led the transition from PHP to Python, harnessing advanced AI, NLP, and local large language models, resulting in a remarkable 160% increase in code base speed.
