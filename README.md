@@ -11,29 +11,24 @@
 
 ## Experience
 
-### Software Developer Python and Machine Learning, Synradar (Full Time)
-- **Duration**: Aug 2023 – Present
+### Software Developer, Promoted, Synradar (Full Time)
+- **Duration**: April 2024 – Present
 - **Description**:
-- Led the transition from PHP to Python, harnessing advanced AI, NLP, and local large language models, resulting in a remarkable 160% increase in code base speed.
-- Developed a robust Flask application fortified with AI algorithms and NLP to bolster security measures.
-- Utilized Power BI to track KPIs, complemented by AI analytics.
+- Utilize Python and machine learning libraries, including TensorFlow, Keras, and PyTorch, to develop advanced neural 
+network-based cybersecurity solutions. 
+- Integrate cutting-edge technologies and data visualization tools like Matplotlib and Seaborn to enhance threat detection and 
+mitigation. 
+- Employ neural networks and machine learning techniques, leveraging packages such as Scikit-learn and NLTK, to 
+proactively anticipate and address emerging cybersecurity threats. 
+- Implement AI technologies, including large language models like Meta's LLaMA 3 and Google's Gemini Pro, to automate 
+and ensure comprehensive cybersecurity measures for esteemed clients.
 
-
-### Data Analyst, Profit Maxima (Full Time)
-- **Duration**: Aug 2022 – July 2023
+### Associate Software Developer Python and Machine Learning, Synradar (Full Time)
+- **Duration**: Aug 2023 – March 2024
 - **Description**:
-- Employed Python and SQL for thorough stock market data analysis, resulting in a significant 25% increase in client satisfaction with investment recommendations.
-- Created interactive data visualizations with Power BI, improving client understanding of investment options and reducing response time by 20% for client queries.
-- Optimized backend infrastructure using MySQL, leading to a notable 40% decrease in data retrieval time and enhancing operational efficiency.
-
-
-### Data Scientist, Neural Thread (Freelance)
-- **Duration**: January 2021 - January 2022
-- **Description**:
-  - Developed machine learning models to accurately predict customer churn, resulting in a notable increase in retention rates from 71% to 93%.
-  - Improved Predictive Analytics Solutions through the application of advanced deep learning algorithms, achieving a remarkable 42% enhancement in prediction accuracy.
-  - Led K-means clustering initiatives to dynamically segment customers, effectively optimizing targeted marketing strategies.
-
+- Developed RESTful APIs using Python and Flask to streamline backend processes. 
+- Utilized Matplotlib, Seaborn, and PowerBI for data visualization to support data-driven decision making. 
+- Converted the entire process from PHP to Python, automating it for faster access and enhanced machine learning operations.
 
 
 ## Skills
