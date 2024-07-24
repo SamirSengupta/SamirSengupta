@@ -4,32 +4,45 @@
   
   ## Introduction
 
-  Welcome to my GitHub profile! I am a passionate data scientist with a strong background in machine learning and data analysis. I specialize in deriving insights from complex datasets and developing predictive models. My GitHub repositories showcase my projects, contributions, and interests in the field. Feel free to explore and get in touch!
+  Welcome to my GitHub profile! I am a Data Scientist with a Bachelor's degree in Data Science from the University of Mumbai. With extensive experience in machine learning, Artificial Intelligence (AI), and cybersecurity, I specialize in developing predictive models and deriving actionable insights from complex datasets. My projects demonstrate my passion for innovative AI solutions and data analysis. Feel free to explore and get in touch!
   
 </div>
 
+## Summary
+
+Data Scientist with a proven track record in enhancing threat detection accuracy and incident response times. Expertise in deploying advanced machine learning models, optimizing code bases, and translating complex data into strategic insights. Certified in Data Analysis, Generative AI, and Machine Learning, with skills in Python, SQL, Power BI, and various ML frameworks.
+
+## Education
+
+### Bachelors in Data Science
+- **Institution**: University of Mumbai
+- **Graduation Date**: April 2023
+- **Skills Acquired**: Deep Learning, Machine Learning, Artificial Intelligence, Databases, Neural Networks, Large Language Models
+
+### Higher Secondary Education (Science)
+- **Institution**: University of Mumbai
+- **Skills Acquired**: Chemistry, Information Technology, Physics, Mathematics, Statistics
 
 ## Experience
 
-### Software Developer, Promoted, Synradar (Full Time)
-- **Duration**: April 2024 – Present
+### Software Developer, Synradar (Full Time)
+- **Duration**: Aug 2023 – July 2024
+- **Location**: Mumbai, India
 - **Description**:
-- Utilize Python and machine learning libraries, including TensorFlow, Keras, and PyTorch, to develop advanced neural 
-network-based cybersecurity solutions. 
-- Integrate cutting-edge technologies and data visualization tools like Matplotlib and Seaborn to enhance threat detection and 
-mitigation. 
-- Employ neural networks and machine learning techniques, leveraging packages such as Scikit-learn and NLTK, to 
-proactively anticipate and address emerging cybersecurity threats. 
-- Implement AI technologies, including large language models like Meta's LLaMA 3 and Google's Gemini Pro, to automate 
-and ensure comprehensive cybersecurity measures for esteemed clients.
+  - Developed machine learning-based intrusion detection systems with Python, increasing threat detection accuracy by 40% and reducing response times by 25%.
+  - Automated threat analysis using ML algorithms, enhancing breach identification efficiency by 50%.
+  - Designed interactive security analytics dashboards with Python, leading to a 35% improvement in incident response times.
+  - Created and optimized ML models for anomaly detection, boosting the identification of unusual patterns and potential threats by 45%.
+  - Integrated LLaMA 3 for code generation, optimization, and security evaluation, improving code quality and assessment efficiency by 30%.
 
-### Associate Software Developer Python and Machine Learning, Synradar (Full Time)
-- **Duration**: Aug 2023 – March 2024
+### Data Scientist, Neural Thread (Full Time)
+- **Duration**: Jan 2022 – July 2023
 - **Description**:
-- Developed RESTful APIs using Python and Flask to streamline backend processes. 
-- Utilized Matplotlib, Seaborn, and PowerBI for data visualization to support data-driven decision making. 
-- Converted the entire process from PHP to Python, automating it for faster access and enhanced machine learning operations.
-
+  - Created and implemented machine learning models to predict key business metrics, resulting in a 25% increase in forecast accuracy.
+  - Improved predictive model accuracy by 30% through advanced neural network architectures and hyperparameter tuning.
+  - Deployed scalable AI solutions in production environments, reducing error rates by 40%.
+  - Developed generative AI models, including chatbots and content generation tools, increasing customer engagement by 35%.
+  - Optimized machine learning code bases, reducing computational time by 50% and resource usage by 40%.
 
 ## Skills
 
@@ -76,57 +89,28 @@ and ensure comprehensive cybersecurity measures for esteemed clients.
 
 ## Projects
 
-### Gemini Vision Pro
+### MedScan.ai: Medical Documents Scanner
+- **Description**: Scans medical images to provide accurate and timely diagnoses, enhancing clinical decision-making.
+- **Tech Stack**: Python, AI, Machine Learning
 
-- **Description**: Developed an image recognition app using Google's Gemini Pro Vision model to analyze user-uploaded images.
-- **Tech Stack**: Flask, Google Gemini Vision, Python
+### Jake.ai: Conversational AI
+- **Description**: Utilizes advanced open-source large language models like LLaMA 3, Gemma 2, and Mistral for enhanced conversational and generative capabilities.
+- **Tech Stack**: LLaMA 3, Generative AI, Flask
 
-### Gemini Pro
-
-- **Description**: Developed a Flask application utilizing Google's Gemini Large Language Model (LLM) to effectively summarize documents like CVs and job descriptions.
+### Resume Evaluator: Gemini LLM-based Candidate Shortlisting
+- **Description**: Developed a Flask application using Google's Gemini Large Language Model (LLM) to summarize CVs and job descriptions, enhancing candidate selection processes.
 - **Tech Stack**: Flask, Google Gemini LLM, Python
 
-### Power BI Sales Forecasting Dashboard
+### Power BI: Sales Forecasting Dashboard
+- **Description**: Created an interactive Power BI dashboard for sales forecasting, leveraging advanced data analysis techniques to provide actionable business insights.
+- **Tech Stack**: Power BI, Data Visualization
 
-- **Description**: Created an interactive Power BI dashboard for sales forecasting, using advanced data analysis and visualization techniques to provide useful insights.
-- **Tech Stack**: Power BI, Data Analysis, Data Visualization
-
-### Customer Segmentation
-
-- **Description**: Utilized K-means clustering to categorize customers based on Annual Income and Spending Score, revealing insights into consumer behavior.
-- **Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib
-
-### Customer Churn Prediction
-
-- **Description**: Predictive modeling project that aims to identify potential customer churn in a telecommunications company using machine learning algorithms.
-- **Tech Stack**: Python, Scikit-learn, Pandas, NumPy
-
-### Portfolio
-
-- **Description**: My professional portfolio website showcasing my education, certifications, job experience, and projects.
-- **Tech Stack**: HTML, CSS, JavaScript, GitHub
-- **Link**: [Portfolio](https://neuralthread.cloud/samir)
-
-### Music Mate
-
-- **Description**: Music Mate is a web application that allows users to download songs from Spotify or YouTube using the URL of the song or playlist.
-- **Tech Stack**: Spotify API, Flask, Python, HTML/CSS/JS, PyTube, youtubeSearchPython
-- **Link**: [Music Mate](https://music-mate-by-samir-sengupta.streamlit.app/)
-
-### Movie Recommendation System
-
-- **Description**: A comprehensive movie recommendation system that utilizes collaborative filtering techniques to suggest personalized movie recommendations based on user preferences and movie ratings.
-- **Tech Stack**: Python, Scikit-learn, TMDb API, Streamlit
-- **Link**: [Movie Recommender System](https://samirsengupta-crypt-crypt-offnit.streamlit.app/)
-
-
-
+### Music Mate: Song Downloading System
+- **Description**: A web application for downloading songs from Spotify or YouTube using the URL of the song or playlist.
+- **Tech Stack**: Spotify API, Flask, Python, HTML/CSS/JS, PyTube
 
 ## Contact
 
 You can reach out to me via email at [samir843301003@gmail.com](mailto:samir843301003@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/samirsengupta/). I am open to interesting collaborations and new opportunities in the field of data science.
 
 Looking forward to connecting with you!
-
-
-
