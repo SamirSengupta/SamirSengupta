@@ -4,113 +4,104 @@
   
   ## Introduction
 
-  Welcome to my GitHub profile! I am a Data Scientist with a Bachelor's degree in Data Science from the University of Mumbai. With extensive experience in machine learning, Artificial Intelligence (AI), and cybersecurity, I specialize in developing predictive models and deriving actionable insights from complex datasets. My projects demonstrate my passion for innovative AI solutions and data analysis. Feel free to explore and get in touch!
-  
+  Welcome to my GitHub profile! I am a **Data Scientist** and **AI Engineer** with a Master's degree in Data Science from Saint Peter’s University and a Bachelor's degree in Data Science from the University of Mumbai. I specialize in **Machine Learning**, **Generative AI**, **NLP**, and **Computer Vision**, with a strong focus on building scalable AI systems and deploying production-grade models. My projects reflect my passion for leveraging cutting-edge AI technologies to solve real-world problems. Feel free to explore my repositories and reach out for collaborations or opportunities!
+
 </div>
 
 ## Summary
 
-Data Scientist with a proven track record in enhancing threat detection accuracy and incident response times. Expertise in deploying advanced machine learning models, optimizing code bases, and translating complex data into strategic insights. Certified in Data Analysis, Generative AI, and Machine Learning, with skills in Python, SQL, Power BI, and various ML frameworks.
+Innovative **AI & Data Science Engineer** with a proven track record in **advanced machine learning**, **generative AI**, and **full-stack Python development**. Adept at designing, deploying, and optimizing scalable AI systems and microservices on cloud platforms like **AWS**. Expert in **LLM fine-tuning**, **Retrieval-Augmented Generation (RAG)**, **NLP**, and **computer vision**, backed by robust **MLOps practices**. Passionate about leveraging cutting-edge AI technologies to drive transformative business outcomes.
 
 ## Education
 
-### Bachelors in Data Science
-- **Institution**: University of Mumbai
-- **Graduation Date**: April 2023
-- **Skills Acquired**: Deep Learning, Machine Learning, Artificial Intelligence, Databases, Neural Networks, Large Language Models
+### **Master’s in Data Science**  
+- **Institution**: Saint Peter’s University, New Jersey, USA  
+- **Graduation Date**: September 2024  
+- **Skills Acquired**: Deep Learning, Machine Learning, Artificial Intelligence, Databases, Neural Networks, Large Language Models, Computer Vision, Data Modeling, Statistical Analysis  
 
-### Higher Secondary Education (Science)
-- **Institution**: University of Mumbai
-- **Skills Acquired**: Chemistry, Information Technology, Physics, Mathematics, Statistics
+### **Bachelor’s in Data Science**  
+- **Institution**: University of Mumbai, India  
+- **Graduation Date**: April 2023  
+- **Skills Acquired**: Python, SQL, Power BI, Tableau, Machine Learning, Deep Learning, Statistics, Predictive Models, Data Mining, Business Intelligence  
 
 ## Experience
 
-### Software Developer, Synradar (Full Time)
-- **Duration**: Aug 2023 – July 2024
-- **Location**: Mumbai, India
-- **Description**:
-  - Developed machine learning-based intrusion detection systems with Python, increasing threat detection accuracy by 40% and reducing response times by 25%.
-  - Automated threat analysis using ML algorithms, enhancing breach identification efficiency by 50%.
-  - Designed interactive security analytics dashboards with Python, leading to a 35% improvement in incident response times.
-  - Created and optimized ML models for anomaly detection, boosting the identification of unusual patterns and potential threats by 45%.
-  - Integrated LLaMA 3 for code generation, optimization, and security evaluation, improving code quality and assessment efficiency by 30%.
+### **AI & Data Science Research Assistant**  
+- **Institution**: Saint Peter’s University  
+- **Duration**: November 2024 – February 2025  
+- **Key Achievements**:  
+  - Spearheaded research and development of open-source LLMs using low-rank adaptation techniques, improving inference speed by 30% and reducing memory usage by 25%.  
+  - Designed AI-powered workflows integrating agentic approaches and scalable RAG pipelines deployed on AWS, enhancing data retrieval efficiency by 40%.  
+  - Developed tools blending NLP, computer vision, and data analytics, improving resource utilization by 20% and contextual data retrieval accuracy by 35%.  
+  - Documented experiments and presented findings that led to a 15% increase in research funding.  
 
-### Data Scientist, Neural Thread (Full Time)
-- **Duration**: Jan 2022 – July 2023
-- **Description**:
-  - Created and implemented machine learning models to predict key business metrics, resulting in a 25% increase in forecast accuracy.
-  - Improved predictive model accuracy by 30% through advanced neural network architectures and hyperparameter tuning.
-  - Deployed scalable AI solutions in production environments, reducing error rates by 40%.
-  - Developed generative AI models, including chatbots and content generation tools, increasing customer engagement by 35%.
-  - Optimized machine learning code bases, reducing computational time by 50% and resource usage by 40%.
+### **Software Developer**  
+- **Company**: Synradar  
+- **Duration**: August 2023 – July 2024  
+- **Key Achievements**:  
+  - Engineered machine learning–based intrusion detection systems with Python, boosting threat detection accuracy by 45% and cutting response times by 50%.  
+  - Automated threat analysis with ML algorithms, handling over 1TB of data daily and reducing processing time by 60%.  
+  - Developed interactive security analytics dashboards using SQL, Power BI, and Tableau, improving incident response times by 30%.  
+  - Implemented containerized microservices using Docker and set up CI/CD pipelines, reducing deployment times by 70%.  
+
+### **Data Scientist**  
+- **Company**: Neural Thread  
+- **Duration**: January 2022 – July 2023  
+- **Key Achievements**:  
+  - Designed and deployed production-grade machine learning models, increasing forecast accuracy by 25%.  
+  - Developed generative AI models (e.g., chatbots, content generators), elevating customer engagement by 35%.  
+  - Optimized neural network architectures, reducing error rates by 40% and computational time by 50%.  
+  - Integrated AI solutions with cloud infrastructures, ensuring 100% compliance with data privacy and security standards.  
 
 ## Skills
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-Advanced-blue)
-![R](https://img.shields.io/badge/R-Intermediate-green)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-orange)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Advanced-blueviolet)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-red)
-![Keras](https://img.shields.io/badge/Keras-Intermediate-red)
-![NLTK](https://img.shields.io/badge/NLTK-Intermediate-green)
-![SpaCy](https://img.shields.io/badge/SpaCy-Intermediate-green)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Advanced-blue)
-![Seaborn](https://img.shields.io/badge/Seaborn-Advanced-blue)
-![Plotly](https://img.shields.io/badge/Plotly-Advanced-blue)
-![Tableau](https://img.shields.io/badge/Tableau-Advanced-yellow)
-![NumPy](https://img.shields.io/badge/NumPy-Advanced-yellowgreen)
-![Pandas](https://img.shields.io/badge/Pandas-Advanced-yellowgreen)
-![SciPy](https://img.shields.io/badge/SciPy-Intermediate-green)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-Advanced-blueviolet)
-![Dimensionality Reduction](https://img.shields.io/badge/Dimensionality%20Reduction-Advanced-blueviolet)
-![Clustering](https://img.shields.io/badge/Clustering-Intermediate-green)
-![ARIMA](https://img.shields.io/badge/ARIMA-Intermediate-green)
-![LSTM](https://img.shields.io/badge/LSTM-Intermediate-green)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Intermediate-yellow)
-![Azure](https://img.shields.io/badge/Azure-Intermediate-blue)
-![Git](https://img.shields.io/badge/Git-Beginner-blue)
-![GitHub](https://img.shields.io/badge/GitHub-Intermediate-blue)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Advanced-yellowgreen)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-Advanced-yellowgreen)
-![Model Deployment](https://img.shields.io/badge/Model%20Deployment-Advanced-yellowgreen)
-![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-Advanced-brightgreen)
-![LangChain](https://img.shields.io/badge/LangChain-Advanced-brightgreen)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-Advanced-brightgreen)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Advanced-brightgreen)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-Advanced-brightgreen)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advanced-brightgreen)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Advanced-brightgreen)
-![Excel](https://img.shields.io/badge/Excel-Intermediate-yellow)
-![PowerBI](https://img.shields.io/badge/PowerBI-Intermediate-yellow)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-Advanced-brightgreen)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-Advanced-brightgreen)
+![NLP](https://img.shields.io/badge/NLP-Advanced-brightgreen)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Advanced-brightgreen)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-red)
+![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-red)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-orange)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-Advanced-yellow)
+![Git](https://img.shields.io/badge/Git-Intermediate-blue)
+![MLOps](https://img.shields.io/badge/MLOps-Advanced-brightgreen)
+![RAG](https://img.shields.io/badge/Retrieval--Augmented%20Generation-Advanced-brightgreen)
 
 </div>
 
 ## Projects
 
-### MedScan.ai: Medical Documents Scanner
-- **Description**: Scans medical images to provide accurate and timely diagnoses, enhancing clinical decision-making.
-- **Tech Stack**: Python, AI, Machine Learning
+### **MedScan.ai: Medical Image Recognition**  
+- **Description**: Scans medical images to provide accurate and timely diagnoses, enhancing clinical decision-making.  
+- **Tech Stack**: Python, AI, Computer Vision, TensorFlow  
 
-### Jake.ai: Conversational AI
-- **Description**: Utilizes advanced open-source large language models like LLaMA 3, Gemma 2, and Mistral for enhanced conversational and generative capabilities.
-- **Tech Stack**: LLaMA 3, Generative AI, Flask
+### **Jake.ai: Conversational AI**  
+- **Description**: Utilizes advanced open-source large language models like LLaMA 3, Gemma 2, and Mistral for enhanced conversational and generative capabilities.  
+- **Tech Stack**: LLaMA 3, Generative AI, Flask  
 
-### Resume Evaluator: Gemini LLM-based Candidate Shortlisting
-- **Description**: Developed a Flask application using Google's Gemini Large Language Model (LLM) to summarize CVs and job descriptions, enhancing candidate selection processes.
-- **Tech Stack**: Flask, Google Gemini LLM, Python
+### **Resume Evaluator: Gemini LLM-based Candidate Shortlisting**  
+- **Description**: Developed a Flask application using Google's Gemini Large Language Model (LLM) to summarize CVs and job descriptions, enhancing candidate selection processes.  
+- **Tech Stack**: Flask, Google Gemini LLM, Python  
 
-### Power BI: Sales Forecasting Dashboard
-- **Description**: Created an interactive Power BI dashboard for sales forecasting, leveraging advanced data analysis techniques to provide actionable business insights.
-- **Tech Stack**: Power BI, Data Visualization
+### **Power BI: Sales Forecasting Dashboard**  
+- **Description**: Created an interactive Power BI dashboard for sales forecasting, leveraging advanced data analysis techniques to provide actionable business insights.  
+- **Tech Stack**: Power BI, Data Visualization  
 
-### Music Mate: Song Downloading System
-- **Description**: A web application for downloading songs from Spotify or YouTube using the URL of the song or playlist.
-- **Tech Stack**: Spotify API, Flask, Python, HTML/CSS/JS, PyTube
+### **Music Mate: Song Downloading System**  
+- **Description**: A web application for downloading songs from Spotify or YouTube using the URL of the song or playlist.  
+- **Tech Stack**: Spotify API, Flask, Python, HTML/CSS/JS, PyTube  
 
 ## Contact
 
-You can reach out to me via email at [samir843301003@gmail.com](mailto:samir843301003@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/samirsengupta/). I am open to interesting collaborations and new opportunities in the field of data science.
+You can reach out to me via email at [samir843301003@gmail.com](mailto:samir843301003@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/samirsengupta/). I am open to interesting collaborations and new opportunities in the field of data science and AI.
 
 Looking forward to connecting with you!
