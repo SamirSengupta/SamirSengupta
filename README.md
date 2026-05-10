@@ -29,13 +29,6 @@ My work focuses on:
 
 ## 💼 Professional Experience
 
-### 🎓 AI Researcher | Saint Peter's University
-**Nov 2024 – Present** | *New Jersey, USA*
-
-- Built agentic AI service desk with RAG processing **10K+ documents**, achieving **98% accuracy** and **70% faster** response times
-- Implemented multi-agent orchestration with automated evaluation using RAGAS metrics
-- Optimized LLM inference with continuous batching, **tripling throughput** to 2000 tokens/sec while reducing GPU memory by **40%**
-
 ### 💻 Software Developer | Synradar
 **Aug 2023 – Jul 2024** | *Mumbai, India*
 
